@@ -1,0 +1,39 @@
+.generate-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    font-family: Arial, sans-serif;
+}
+
+.generate-btn {
+    background-color: #2563eb;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.3s ease;
+}
+
+.generate-btn:hover {
+    background-color: #1d4ed8;
+}
+
+.generate-btn:disabled {
+    background-color: #93c5fd;
+    cursor: not-allowed;
+}
+
+.loading-text {
+    margin-top: 15px;
+    color: #666;
+    font-style: italic;
+}
+
+.result-text {
+    margin-top: 20px;
+    font-size: 18px;
+}

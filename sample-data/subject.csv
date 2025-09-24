@@ -1,0 +1,17 @@
+sub_code,sub_name,sem,classes_per_week
+CS101,Introduction to C,1,4
+ME101,Engineering Mechanics,1,4
+PY101,Physics,1,3
+CS201,Data Structures,3,4
+CS202,Database Management,3,4
+ME201,Thermodynamics,3,4
+EC201,Digital Circuits,3,4
+CS301,Operating Systems,5,4
+CS302,Theory of Computation,5,3
+CS303,Computer Networks,5,4
+ME301,Fluid Mechanics,5,4
+EC301,Microprocessors,5,4
+CS401,Machine Learning,7,4
+CS402,Cryptography,7,3
+ME401,Heat Transfer,7,4
+EC401,VLSI Design,7,4

@@ -1,0 +1,9 @@
+name,subjects,max_classes_per_day,avg_leaves_per_month
+Dr. Priya Sharma,CS101;CS201,3,1
+Prof. Rohan Mehta,CS202;CS301,2,0
+Mr. Anand Kumar,ME101;ME201,3,2
+Mrs. Sunita Desai,PY101,4,1
+Dr. Vikram Singh,CS302;CS402,2,0
+Prof. Neha Gupta,CS303;CS401,3,1
+Mr. Rajesh Patil,ME301;ME401,2,2
+Ms. Anjali Verma,EC201;EC301;EC401,3,1

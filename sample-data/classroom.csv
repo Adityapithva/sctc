@@ -1,0 +1,16 @@
+room_no,capacity,type,availability
+A-101,60,Lecture Hall,TRUE
+A-102,60,Lecture Hall,TRUE
+A-201,70,Lecture Hall,TRUE
+A-202,70,Lecture Hall,TRUE
+B-105,90,Seminar Hall,TRUE
+B-205,90,Seminar Hall,TRUE
+C-LAB1,40,Computer Lab,TRUE
+C-LAB2,40,Computer Lab,TRUE
+D-LAB1,50,Electronics Lab,TRUE
+E-LAB1,50,Mechanical Lab,TRUE
+F-110,30,Tutorial Room,TRUE
+F-112,30,Tutorial Room,TRUE
+G-301,120,Auditorium,TRUE
+H-210,60,Lecture Hall,TRUE
+H-211,60,Lecture Hall,TRUE

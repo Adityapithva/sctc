@@ -1,0 +1,49 @@
+.timetable-container {
+    padding: 40px;
+    font-family: Arial, sans-serif;
+    max-width: 1000px;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #2563eb;
+}
+
+.loading {
+    text-align: center;
+    color: #555;
+}
+
+.error {
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+
+.timetable-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.timetable-table th,
+.timetable-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+.timetable-table th {
+    background-color: #2563eb;
+    color: white;
+}
+
+.timetable-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.timetable-table tr:hover {
+    background-color: #f1f5ff;
+}

@@ -1,0 +1,15 @@
+batch_name,sem,student_count
+Computer_A,1,65
+Computer_B,1,62
+Mechanical_A,1,58
+Computer_A,3,64
+Computer_B,3,61
+Mechanical_A,3,55
+Electronics_A,3,60
+Computer_A,5,60
+Computer_B,5,58
+Mechanical_A,5,52
+Electronics_A,5,59
+Computer_A,7,59
+Mechanical_A,7,50
+Electronics_A,7,55
