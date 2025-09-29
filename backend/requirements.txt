@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymongo
+pydantic
+pandas
+google-generativeai
+python-multipart
+pydantic[email]
